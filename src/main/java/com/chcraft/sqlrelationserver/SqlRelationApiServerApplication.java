@@ -1,4 +1,4 @@
-package com.chcraft.sqlrelation;
+package com.chcraft.sqlrelationserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
